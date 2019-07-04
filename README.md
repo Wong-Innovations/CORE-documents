@@ -5,7 +5,7 @@ This is a Node.js wrapper for the CORE article and journal service's API.
 ## Installation
 
 ```console
-foo@bar:~$ npm install scapegoat --save
+foo@bar:~$ npm install core-documents --save
 ```
 
 ## Usage

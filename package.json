@@ -1,5 +1,5 @@
 {
-  "name": "core-js",
+  "name": "core-documents",
   "version": "0.1.0",
   "description": "This is a Node.js wrapper for the CORE article and journal service's API.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wong-Innovations/CORE-js.git"
+    "url": "git+https://github.com/Wong-Innovations/CORE-documents"
   },
   "keywords": [
     "CORE",
@@ -19,9 +19,9 @@
   "author": "Dylan Wong <dylanwong@nevada.unr.edu> (http://wong-innovations.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Wong-Innovations/CORE-js/issues"
+    "url": "https://github.com/Wong-Innovations/CORE-documents/issues"
   },
-  "homepage": "https://github.com/Wong-Innovations/CORE-js#readme",
+  "homepage": "https://github.com/Wong-Innovations/CORE-documents#readme",
   "dependencies": {
     "request": "^2.88.0"
   }

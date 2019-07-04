@@ -19,3 +19,6 @@ console.log(CORE.getArticles({query: "Agricultural Subsidies"}));
 // This should log an array of 10 articles (in metadata format)
 ```
 
+## Release History
+
+* 0.1.0 Initial release

@@ -11,7 +11,7 @@ foo@bar:~$ npm install core-documents --save
 ## Usage
 
 ```JavaScript
-var CORE = require('CORE-js');
+var CORE = require('core-documents');
 
 CORE.init("your API key");
 
